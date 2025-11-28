@@ -1,0 +1,4 @@
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\arboles\arboles\obj\Debug\net8.0\arboles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\arboles\arboles\obj\Debug\net8.0\arboles.AssemblyInfoInputs.cache
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\arboles\arboles\obj\Debug\net8.0\arboles.AssemblyInfo.cs
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\arboles\arboles\obj\Debug\net8.0\arboles.csproj.CoreCompileInputs.cache

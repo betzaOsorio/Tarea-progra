@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cosor\\Documents\\Betza\\Programacion\\Semestre 2\\Visual Basic\\arboles\\arboles\\arboles.csproj",
+      "projectUniqueName": "C:\\Users\\cosor\\Documents\\Betza\\Programacion\\Semestre 2\\Visual Basic\\arboles\\Tarea-progra\\arboles\\arboles.csproj",
       "projectName": "arboles",
-      "projectPath": "C:\\Users\\cosor\\Documents\\Betza\\Programacion\\Semestre 2\\Visual Basic\\arboles\\arboles\\arboles.csproj",
+      "projectPath": "C:\\Users\\cosor\\Documents\\Betza\\Programacion\\Semestre 2\\Visual Basic\\arboles\\Tarea-progra\\arboles\\arboles.csproj",
       "packagesPath": "C:\\Users\\cosor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cosor\\Documents\\Betza\\Programacion\\Semestre 2\\Visual Basic\\arboles\\arboles\\obj\\",
+      "outputPath": "C:\\Users\\cosor\\Documents\\Betza\\Programacion\\Semestre 2\\Visual Basic\\arboles\\Tarea-progra\\arboles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
